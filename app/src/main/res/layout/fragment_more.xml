@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:id="@+id/Layout_menuTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:background="@color/dark_gray"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <TextView
+                android:id="@+id/TextView_menuTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="0.9"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="나의사전"
+                android:textColor="#FFFFFFFF"
+                android:textSize="19dp" />
+
+            <ImageView
+                android:id="@+id/ImageView_settingButton"
+                android:layout_width="13dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="0.1"
+                android:adjustViewBounds="true"
+                android:background="@drawable/settingselector"
+                android:gravity="center_vertical"
+                android:scaleType="fitCenter"
+                android:layout_margin="5dp" >
+            </ImageView>
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/Menu_ListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/Layout_menuTitle"
+            android:cacheColorHint="#00000000"
+            android:clipToPadding="false"
+            android:divider="#FFCCCCCC"
+            android:dividerHeight="0.1dp" />
+    </RelativeLayout>
+
+</RelativeLayout>

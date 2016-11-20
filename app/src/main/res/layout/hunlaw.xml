@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFFFF">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/adview1">
+
+        <RelativeLayout
+            android:id="@+id/HunLaw_RelativeLayout_MainFrame"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+
+            android:layout_marginTop="0dp">
+
+            <LinearLayout
+                android:id="@+id/HunLaw_LinearLayout2_MainFrame"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="0dp"
+                android:orientation="vertical"
+                android:weightSum="1">
+
+                <LinearLayout
+                    android:id="@+id/HunLaw_LinearLayout_MainFrame"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginTop="0dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="15dp"
+                        android:src="@drawable/search_bt" />
+
+                    <EditText
+                        android:id="@+id/HunLaw_EditText_Search"
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="5dp"
+                        android:background="#FFFFFF"
+                        android:gravity="center_vertical"
+                        android:hint="총232조/ 0조항 검색시 전체보기"
+                        android:inputType="number"
+                        android:paddingLeft="10dp"
+                        android:singleLine="true"
+                        android:textSize="16dp" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/HunLaw_LinearLayout_BodyFrame"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="0dp"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.8"
+                        android:orientation="vertical">
+
+                       <!-- <ListView
+                            android:id="@+id/HunLaw_ListView"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:divider="#FFFFFFFF"
+                            android:dividerHeight="0dp"
+                            android:fadingEdgeLength="0px"
+                            android:visibility="visible" />-->
+
+                        <shufflebrother.mobile.searchthelaw.customview.PinnedHeaderListView
+                            android:id="@+id/HunLaw_ListView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@android:color/white"
+
+                            android:visibility="visible">
+
+                        </shufflebrother.mobile.searchthelaw.customview.PinnedHeaderListView>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/word_search_layout"
+                        android:layout_width="fill_parent"
+                        android:layout_height="50dp"
+                        android:layout_weight="0.2"
+                        android:background="@drawable/xml_border"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:text=" ※ 단어검색 :"
+                            android:textColor="#FF777777"
+                            android:textSize="16sp" />
+
+                        <EditText
+                            android:id="@+id/HunLaw_EditText_WordSearch"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="5dp"
+
+                            android:background="@null"
+                            android:gravity="center_vertical"
+                            android:hint="단어입력"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:textSize="16sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout>
+
+</RelativeLayout>

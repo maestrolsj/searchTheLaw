@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <!-- Action-bar looking view -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/actionbar_dimen"
+        android:background="@color/dark_gray">
+
+        <ImageView
+            android:id="@+id/drawer_indicator"
+            android:layout_width="@dimen/actionbar_dimen"
+            android:layout_height="@dimen/actionbar_dimen"
+            android:layout_gravity="start"
+            android:background="@drawable/drawer_selector"
+            android:scaleType="centerInside" />
+
+
+        <TextView
+            android:id="@+id/actionbar_text_id"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/actionbar_dimen"
+            android:layout_toLeftOf="@+id/action_bar_share"
+            android:layout_toRightOf="@+id/drawer_indicator"
+            android:layout_toStartOf="@+id/action_bar_share"
+            android:gravity="center"
+            android:text="서치더로우"
+            android:textColor="#FFFFFFFF"
+            android:textSize="23sp" />
+
+        <ImageView
+            android:id="@+id/action_bar_share"
+            android:layout_width="@dimen/actionbar_dimen"
+            android:layout_height="@dimen/actionbar_dimen"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="right|center_vertical"
+            android:padding="12dp"
+            android:src="@drawable/shareselector"></ImageView>
+
+
+    </RelativeLayout>
+
+
+    <!-- Content -->
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <!--    <shufflebrother.mobile.searchthelaw.customview.PinnedHeaderListView
+               android:id="@+id/pinnedListView"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:background="@android:color/white">
+
+           </shufflebrother.mobile.searchthelaw.customview.PinnedHeaderListView>-->
+        <LinearLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/adview1"
+            android:orientation="vertical"></LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/menu"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#ffffff">
+
+        </RelativeLayout>
+
+    </android.support.v4.widget.DrawerLayout>
+
+    <com.mocoplex.adlib.AdlibAdViewContainer
+        android:id="@+id/adview1"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content"
+        isDefaultBanner="true" />
+
+</LinearLayout>

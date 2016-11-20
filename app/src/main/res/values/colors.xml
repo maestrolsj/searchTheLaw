@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="light_gray">#c2c7cc</color>
+  <color name="dark_gray">#3d454c</color>
+  <color name="dark_gray_pressed">#373e44</color>
+  <color name="darker_gray">#1f2226</color>
+
+    <color name="pressed_seoulbus">#CC33B5E5</color>
+    <color name="ALIZARIN">#e74c3c</color>
+    <color name="POMEGRANATE">#c0392b</color>
+    <color name="BELIZEHOLE">#2980b9</color>
+    <color name="PETERRIVER">#3498db</color>
+    <color name="EMERALD">#2ecc71</color>
+    <color name="NEPHRITIS">#27ae60</color>
+    <color name="AMETHYST">#9b59b6</color>
+    <color name="WISTERIA">#8e44ad</color>
+    <color name="CARROT">#e67e22</color>
+    <color name="PUMPKIN">#d35400</color>
+    <color name="WETASPHALT">#34495e</color>
+    <color name="MIDNIGHTBLUE">#2c3e50</color>
+    <color name="CLOUDS">#ecf0f1</color>
+    <color name="SILVER">#BDC3C7</color>
+    <color name="CONCRETE">#95a5a6</color>
+    <color name="ASBESTOS">#7f8c8d</color>
+    <color name="SUNFLOWER">#f1c40f</color>
+    <color name="ORANGE">#f39c12</color>
+    <color name="TURQUOISE">#1abc9c</color>
+    <color name="GREENSEA">#16a085</color>
+    <color name="WHITE">#ffffff</color>
+    <color name="BLACK">#000000</color>
+    <color name="text_tab_selected">#34495e</color>
+    <color name="text_tab_unselected">#7f8c8d</color>
+    <color name="background_window">#FFE5E5E5</color>
+    <color name="moida_tab_1">#FF3F51B5 </color>
+    <color name="drawer_background">#ffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="light">#ffa0a0a0</color>
+    <color name="gray_dark">#222222</color>
+    <color name="gray_light">#dddddd</color>
+    <color name="gray_medium">#cdcdcd</color>
+    <color name="white">#ffffff</color>
+    <color name="gray_extra_dark">#1b1b1b</color>
+    <color name="gray_list_bg">#0d000000</color>
+    <color name="dark_text">#3f3f3f</color>
+    <color name="primary">#b0bec5</color>
+    <color name="primary_pressed">#eceff1</color>
+    <color name="statusbar_bg">#FFeceff1</color>
+    <color name="pink">#FFEBF0</color>
+    <color name="ocean">#D2E1FF</color>
+</resources>

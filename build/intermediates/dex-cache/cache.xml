@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-7.0.0_3ed8c98304b614d616b66c56cccf2e0177298c21.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-7.0.0_2db0f41f12be8b0b25c515d8d5464acbf4220e37.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appstate-7.0.0_ca0dc6781c7fe29667d11d0922ced60137ac0e4f.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-7.0.0_290f91a25cb90dbfb3d037ee756fc509efffa695.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-7.0.0_df42d8f4cf23e27bf0ee049c8805629b65dfcc59.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-7.0.0_e8c52110343bae12f748bad924889ac536133f03.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-7.0.0_360b3e0fbd8a7704cbe0c564a684158ad61dd261.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-7.0.0_ee3b32d22e7e1508d4c72797d9e2d12ec0bf80da.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-22.0.0_0f12d1b57a839c82c36bb85875a22753cd059fe6.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-7.0.0_77d5be9242fff947a82d5732866a670c28bc5d94.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-22.0.0_82e5fb066078c15b7ff0da2f80356f6fcce000fc.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-7.0.0_6e76f67dbd66e212c6e409bacd506b3f79cb4081.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="75c54c470e19b251749e6e6c2cf3d73c0b50aa64">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.pnikosis-materialish-progress-1.5_d22f06309d47d66ccefc26434d17bf204570e696.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/libs/AdamPublisherSDK-2.3.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27b6a1cbbd1a0ca222816c8505013d7afa938dc1">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/AdamPublisherSDK-2.3.4_5bea11d0f3179c4c3ff42755dcc079e5b5419d1e.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-7.0.0_82006ea8b4a48cfb90976bf168d17fd8ac10acec.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/support-annotations-22.0.0_fbaccb92f7c7bfd9c90c0609c0c2cc1774dbd117.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.astuetz-pagerslidingtabstrip-1.0.1_35b507739cf4f41cc67b7476d4638d2a8365ddc7.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-7.0.0_6239cef88cfa0a5010af413d58f4db7b01ba5da9.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-7.0.0_1349db999765a15b90bda17083697080785f844c.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-7.0.0_b1a9c1599097c4f308c656ea4d7fcd772b825470.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-7.0.0_c14cb4266e6484f2181feb11e1647023f341160e.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-7.0.0_95918fdfae50bcf4f16aca3634bf2898d8799176.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-7.0.0_f963cad76e12b7181b45680eddab2b2c385753ec.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/libs/adlibr.4.1.0.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a2013c743333cce66202de1875058ffaa3fa5a2c">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/adlibr.4.1.0.9_a3c732b2793ba02503ad1c7142a38f66e3c6c237.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-7.0.0_5e05098bc3e472664a4cc1288a8204eb678775ec.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/internal_impl-22.0.0_615c25ace6476b8db2366bd30596e25b6b4fbd83.jar" />
+    </item>
+    <item
+        jar="/home/maestrolsj/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/home/maestrolsj/AndroidApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-7.0.0_2be980cf00da61e135854d066cc8dd3cf1d54665.jar" />
+    </item>
+
+</items>
